@@ -5,8 +5,4 @@
 
 
    
-<img src="https://github-readme-stats.vercel.app/api?username=ORCA666&show_icons=true&count_private=true&include_all_commits=true&theme=dark" width="600" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORCA666&langs_count=4&theme=dark" width="300" />
-
-
-   
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" /> </p> 
