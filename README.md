@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**ORCA666/ORCA666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <h1 align="center"> <p style="color:red;"> <em><strong>CODING MALWARE SINCE 1986  </strong></em>  </p> </h1>
+  <p align="center"><img src="https://media1.tenor.com/images/80c1604585f2ea5160e0a7d4a8cd3400/tenor.gif" width="500px" height="600px" /> </p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <img height="250cm" src="https://github-readme-stats.vercel.app/api?username=ORCA666&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /> <img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORCA666&langs_count=4&theme=dark" />
+   
+
+   
+
+   <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" /> </p> 
+   
+   
