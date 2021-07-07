@@ -7,4 +7,5 @@
 
    
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" /> </p> 
- <h1 align="center">  Looking for a creative red team to join [no windows users]  </h1>
+
+  <h1 align="center"> <strong><dt>LOOKING FOR A RED TEAM TO JOIN </dt></strong> </h1>
