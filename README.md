@@ -13,6 +13,6 @@
    
   <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=page.id" /> </p> 
   
-  <h1 align="center"> <strong><dt>LOOKING FOR A RED TEAM TO JOIN: </dt></strong>    <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/> 
-   <a href="mailto:chickensarehealthy666@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> </h1>
+  <h1 align="center"> <strong><dt>LOOKING FOR A RED TEAM TO JOIN: </dt></strong>    <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="8.5%"/> 
+   <a href="mailto:chickensarehealthy666@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="8.5%"/> </a> </h1>
   
