@@ -19,5 +19,5 @@
    
    
    
-<h1 align="center">  <em><strong>If ur good at something don't do it for free : i can build you a custom undetected loader for some $  </strong></em>   </h1> 
+<h1 align="center">  <em><strong>"If ur good at something don't do it for free" : i can build you a custom undetected loader for some $  </strong></em>   </h1> 
   
