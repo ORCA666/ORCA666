@@ -19,5 +19,5 @@
    
    
    
-<h1 align="center">  <em><strong> WHAT IM CURRENTLY SELLING : HellsGate-EVA v1 && v2 || Stops on Wednesday, July 21</strong></em>   </h1> 
+<h1 align="center">  <em><strong> </strong></em>   </h1> 
   
