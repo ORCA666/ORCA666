@@ -14,8 +14,9 @@
                 
   <p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" /> </p> 
   
-  <h1 align="center"> <strong><dt>U CAN CONTACT ME AT: </dt></strong>    <a href="https://twitter.com/ORCA6665"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="8.5%"/> 
-   <a href="mailto:chickensarehealthy666@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="8.5%"/> </a> <a href="mailto:Mr-ORCA666@protonmail.com"> <img src="https://media-exp3.licdn.com/dms/image/C4D0BAQHxtWAByw2LVA/company-logo_200_200/0/1625471491903?e=2159024400&v=beta&t=gYVAI5BK5bdzNz7QB3Hr3LwLv85YK-LpQzzxb15kS9M" width="7.5%"/> </a> </h1>
+  <h1 align="center"> <strong><dt>U CAN CONTACT ME AT: </dt></strong>    
+   <a href="mailto:Mr-ORCA666@protonmail.com"> <img src="https://user-images.githubusercontent.com/66519611/130907687-5dadc050-1f5a-4243-8efe-4495afe0aceb.png" width="7.5%"/> </a>
+  
    
    
    
