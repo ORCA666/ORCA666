@@ -1,6 +1,6 @@
 
 
-   <h1 align="center">  <em><strong>CODING MALWARE SINCE 1986  </strong></em>   </h1> 
+   <h1 align="center">  <em><strong>  MALWARE SINCE 1986  </strong></em>   </h1> 
   
   
  
