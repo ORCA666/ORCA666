@@ -6,3 +6,11 @@
 - achlys v1
 - achlys v2
 - whale
+
+
+# i want to add, that orca didnt do this work from the scratch, its either based on other code or he and his teammate did it.
+
+
+<p align="center">
+   may his soul rest in peace
+</p>
